@@ -3,7 +3,7 @@
 </div>
 <br>
 <h1 align="center"> 
-	 Algoritmos e Programação 
+	 Estrutura de Dados 
 </h1>
 
 </br>
