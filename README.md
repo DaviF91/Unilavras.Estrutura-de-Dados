@@ -47,6 +47,19 @@
 </div>
 
 </br>
+<div align=left>
+  <h2 align=left> 📝​​ [LAB] Semana 3</h2>
+  
+  <p>Para visualizar o código basta clicar no <strong>Exercício</strong>.</p>
+
+  <ul>
+  <li><a href="https://github.com/DaviF91/Unilavras.Estrutura-de-Dados/blob/master/%5BLAB%5D%20Semana%203/exerc1.py">Exercício 1</a></li>
+  <li><a href="https://github.com/DaviF91/Unilavras.Estrutura-de-Dados/blob/master/%5BLAB%5D%20Semana%203/exerc2.py">Exercício 2</a></li>
+  <li><a href="https://github.com/DaviF91/Unilavras.Estrutura-de-Dados/blob/master/%5BLAB%5D%20Semana%203/exerc3.py">Exercício 3</a></li>
+  </ul>
+</div>
+
+</br>
 
 <h2>​📧​​ Contato </h2>
 <div>
