@@ -66,7 +66,9 @@
   <p>Para visualizar o código basta clicar no <strong>Exercício</strong>.</p>
 
   <ul>
-  <li><a href="https://github.com/DaviF91/Unilavras.Estrutura-de-Dados/blob/master/%5BLAB%5D%20Semana%205/main.py">Exercício 1</a></li>
+  <li><a href="https://github.com/DaviF91/Unilavras.Estrutura-de-Dados/blob/master/%5BLAB%5D%20Semana%205/Exerc1.py">Exercício 1</a></li>
+  <li><a href="https://github.com/DaviF91/Unilavras.Estrutura-de-Dados/blob/master/%5BLAB%5D%20Semana%205/Exerc2.py">Exercício 2</a></li>
+  <li><a href="https://github.com/DaviF91/Unilavras.Estrutura-de-Dados/blob/master/%5BLAB%5D%20Semana%205/Exerc3.py">Exercício 3</a></li>
   </ul>
 </div>
 </br>
